@@ -7,3 +7,5 @@ Frontend Mobile Developer Test
 The project was created using react-navigation and react-native-reanimated 3
 
 # Video
+
+![](https://github.com/jehuayhualla/TallerTech/blob/main/video.gif)
